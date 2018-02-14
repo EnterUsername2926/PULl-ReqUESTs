@@ -1,4 +1,4 @@
-#PULl ReqUESTs 
+# PULl ReqUESTs 
 
 PuLl ReQUesTS let YoU tElLoThErS about CHanges yoU've PUSHEd To A RepoSiTory oN Github. once a pUll ReQuESt Is OPened, YoU can DiScUss And reviEW tHe potEntiAlChAnges With CoLlaBorAtORs And ADd folloW-UP CoMmIts bEForE thE CHAnGes ARe MerGed IntO tHe rEPosiTory. 
 
